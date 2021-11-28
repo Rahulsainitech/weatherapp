@@ -36,8 +36,8 @@ body {
 .fa-snowflake {
   -webkit-transition: linear;
   transition: linear;
-  -webkit-animation: rotate 1s infinite;
-          animation: rotate 1s infinite;
+  -webkit-animation: rotate 3s infinite alternate;
+          animation: rotate 3s infinite alternate;
   color: orange;
 }
 

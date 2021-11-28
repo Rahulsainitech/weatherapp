@@ -33,7 +33,7 @@ body{
 }
 .fa-snowflake{
     transition: linear;
-    animation: rotate 1s infinite ;
+    animation: rotate 3s infinite alternate;
     color: $main-cl;
 }
 @keyframes rotate {
